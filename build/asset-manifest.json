@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/port-react/static/css/main.03446873.css",
+    "main.js": "/port-react/static/js/main.396c60aa.js",
+    "static/media/profile-pic.png": "/port-react/static/media/profile-pic.3daf4950c3d8c1e0dd75.png",
+    "index.html": "/port-react/index.html",
+    "main.03446873.css.map": "/port-react/static/css/main.03446873.css.map",
+    "main.396c60aa.js.map": "/port-react/static/js/main.396c60aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03446873.css",
+    "static/js/main.396c60aa.js"
+  ]
+}
